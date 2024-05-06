@@ -1,0 +1,1 @@
+flutter create --project-name fe_lab_clinicas_core --org br.com.filipehaniel --template=package ./fe_lab_clinicas_core
