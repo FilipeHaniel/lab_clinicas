@@ -12,8 +12,11 @@ dependencies:
     sdk: flutter
   top_snackbar_flutter: ^3.1.0
   signals_flutter: ^3.0.0
-  asyncstate: ^2.1.0
+  asyncstate: ^2.1.1-dev.1
   loading_animation_widget: ^1.2.1
+  dio: ^5.4.3+1
+  shared_preferences: ^2.2.3
+  flutter_getit: ^2.0.0
 
 dev_dependencies:
   flutter_test:
